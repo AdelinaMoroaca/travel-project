@@ -11,7 +11,11 @@ function Navigation() {
             </Link>
             <div className='nav-links-container'>
                 <Link className='nav-link' to='/shop'>
-                    <h3>Shop</h3>
+                  Shop
+                </Link>
+                
+                <Link className='nav-link' to='/sign-in'>
+                  Sign In
                 </Link>
             </div>
         </div>
